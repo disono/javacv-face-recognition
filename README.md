@@ -1,2 +1,1 @@
-# javacv-face-recognition
-JavaCV Face Recognition Demo
+# JavaCV Face Recognition Demo
